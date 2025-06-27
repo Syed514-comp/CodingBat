@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmUP1", "WarmUP1\WarmUP1.csproj", "{7C072E29-0B11-4969-B8A8-B8DF0DBBEC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmUp2", "WarmUp2\WarmUp2.csproj", "{6BD1B734-C07F-47E5-8076-F85F8226B58E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C072E29-0B11-4969-B8A8-B8DF0DBBEC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C072E29-0B11-4969-B8A8-B8DF0DBBEC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C072E29-0B11-4969-B8A8-B8DF0DBBEC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C072E29-0B11-4969-B8A8-B8DF0DBBEC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BD1B734-C07F-47E5-8076-F85F8226B58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD1B734-C07F-47E5-8076-F85F8226B58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD1B734-C07F-47E5-8076-F85F8226B58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD1B734-C07F-47E5-8076-F85F8226B58E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73B6969D-B63C-48AB-8B2B-169B8DD8373C}
+	EndGlobalSection
+EndGlobal
