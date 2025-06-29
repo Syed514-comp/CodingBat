@@ -1,7 +1,4 @@
-﻿using System;
-using System.Data.SqlTypes;
-using WarmUp1;
-using static System.Net.Mime.MediaTypeNames;
+﻿using WarmUp1;
 
 public class Program
 {
